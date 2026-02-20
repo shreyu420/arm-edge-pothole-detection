@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+yolov5_env/
+
+# Output files
+output/snapshots/
+output/detections.csv
+
+# OS files
+.DS_Store
+Thumbs.db
